@@ -59,9 +59,11 @@ Follow these steps to get the project running locally:
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and create a pull request with your changes.
+#HacktoberFest
 
 ## Contact
 
 For any questions or feedback, please reach out at [sankargnanasekar.k@gmail.com](mailto:sankargnanasekar.k@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/sankargnanasekar/).
 
 **Enjoy coding and happy contributing!**
+
